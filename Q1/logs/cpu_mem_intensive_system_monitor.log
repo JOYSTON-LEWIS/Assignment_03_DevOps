@@ -1,0 +1,237 @@
+----------------------------- Start of Report -----------------------------
+Report generated on: Sun Mar 23 12:32:11 IST 2025
+
+CPU Usage per Application:
+----------------------------
+Application               User %   System %   CPU %
+systemd                  0.0%      0.0%      0.0%
+init-systemd(Ub          0.0%      0.0%      0.0%
+init                     0.0%      0.0%      0.0%
+systemd-journal          0.0%      0.0%      0.0%
+systemd-udevd            0.0%      0.0%      0.0%
+systemd-resolve          0.0%      0.0%      0.0%
+systemd-timesyn          0.0%      0.0%      0.0%
+cron                     0.0%      0.0%      0.0%
+dbus-daemon              0.0%      0.0%      0.0%
+networkd-dispat          0.0%      0.0%      0.0%
+
+Memory Usage per Application:
+----------------------------
+Total Memory: 32011 MB
+Used Memory: 476 MB
+Free Memory: 31535 MB
+System Used Memory (Buffers/Cache): 238 MB
+
+Application               Mem %   Mem (MB)
+unattended-upgr          0.00   %  20.82    MB
+packagekitd              0.00   %  19.62    MB
+networkd-dispat          0.00   %  19.26    MB
+systemd-journal          0.00   %  16.98    MB
+systemd-resolve          0.00   %  13.09    MB
+systemd                  0.00   %  12.34    MB
+apache2                  0.00   %  10.45    MB
+apache2                  0.00   %  10.45    MB
+systemd                  0.00   %  9.02     MB
+systemd-logind           0.00   %  7.26     MB
+
+Top 10 Resource-Intensive Processes:
+----------------------------
+    PID COMMAND         %CPU %MEM
+      1 systemd          0.0  0.0
+      2 init-systemd(Ub  0.0  0.0
+     15 init             0.0  0.0
+     65 systemd-journal  0.0  0.0
+     88 systemd-udevd    0.0  0.0
+     96 systemd-resolve  0.0  0.0
+     97 systemd-timesyn  0.0  0.0
+    182 cron             0.0  0.0
+    184 dbus-daemon      0.0  0.0
+    189 networkd-dispat  0.0  0.0
+
+Process-Intensive Values (Using htop):
+----------------------------
+Top 10 CPU-Intensive Processes (Using htop):
+PID    COMMAND         %CPU   %MEM
+97      systemd-timesyn 0.0     0.0
+96      systemd-resolve 0.0     0.0
+88      systemd-udevd   0.0     0.0
+65      systemd-journal 0.0     0.1
+228     agetty          0.0     0.0
+2       init-systemd(Ub 0.0     0.0
+193     systemd-logind  0.0     0.0
+190     rsyslogd        0.0     0.0
+189     networkd-dispat 0.0     0.1
+184     dbus-daemon     0.0     0.0
+
+Top 10 Memory-Intensive Processes (Using htop):
+PID    COMMAND         %CPU   %MEM
+65      systemd-journal 0.0     0.1
+189     networkd-dispat 0.0     0.1
+97      systemd-timesyn 0.0     0.0
+96      systemd-resolve 0.0     0.0
+88      systemd-udevd   0.0     0.0
+228     agetty          0.0     0.0
+2       init-systemd(Ub 0.0     0.0
+193     systemd-logind  0.0     0.0
+190     rsyslogd        0.0     0.0
+184     dbus-daemon     0.0     0.0
+
+----------------------------- End of Report -----------------------------
+----------------------------- Start of Report -----------------------------
+Report generated on: Sun Mar 23 12:32:12 IST 2025
+
+CPU Usage per Application:
+----------------------------
+Application               User %   System %   CPU %
+systemd                  0.0%      0.0%      0.0%
+init-systemd(Ub          0.0%      0.0%      0.0%
+init                     0.0%      0.0%      0.0%
+systemd-journal          0.0%      0.0%      0.0%
+systemd-udevd            0.0%      0.0%      0.0%
+systemd-resolve          0.0%      0.0%      0.0%
+systemd-timesyn          0.0%      0.0%      0.0%
+cron                     0.0%      0.0%      0.0%
+dbus-daemon              0.0%      0.0%      0.0%
+networkd-dispat          0.0%      0.0%      0.0%
+
+Memory Usage per Application:
+----------------------------
+Total Memory: 32011 MB
+Used Memory: 478 MB
+Free Memory: 31533 MB
+System Used Memory (Buffers/Cache): 238 MB
+
+Application               Mem %   Mem (MB)
+unattended-upgr          0.00   %  20.82    MB
+packagekitd              0.00   %  19.62    MB
+networkd-dispat          0.00   %  19.26    MB
+systemd-journal          0.00   %  16.98    MB
+systemd-resolve          0.00   %  13.09    MB
+systemd                  0.00   %  12.34    MB
+apache2                  0.00   %  10.45    MB
+apache2                  0.00   %  10.45    MB
+systemd                  0.00   %  9.02     MB
+systemd-logind           0.00   %  7.26     MB
+
+Top 10 Resource-Intensive Processes:
+----------------------------
+    PID COMMAND         %CPU %MEM
+      1 systemd          0.0  0.0
+      2 init-systemd(Ub  0.0  0.0
+     15 init             0.0  0.0
+     65 systemd-journal  0.0  0.0
+     88 systemd-udevd    0.0  0.0
+     96 systemd-resolve  0.0  0.0
+     97 systemd-timesyn  0.0  0.0
+    182 cron             0.0  0.0
+    184 dbus-daemon      0.0  0.0
+    189 networkd-dispat  0.0  0.0
+
+Process-Intensive Values (Using htop):
+----------------------------
+Top 10 CPU-Intensive Processes (Using htop):
+PID    COMMAND         %CPU   %MEM
+97      systemd-timesyn 0.0     0.0
+96      systemd-resolve 0.0     0.0
+88      systemd-udevd   0.0     0.0
+65      systemd-journal 0.0     0.1
+228     agetty          0.0     0.0
+2       init-systemd(Ub 0.0     0.0
+193     systemd-logind  0.0     0.0
+190     rsyslogd        0.0     0.0
+189     networkd-dispat 0.0     0.1
+184     dbus-daemon     0.0     0.0
+
+Top 10 Memory-Intensive Processes (Using htop):
+PID    COMMAND         %CPU   %MEM
+65      systemd-journal 0.0     0.1
+189     networkd-dispat 0.0     0.1
+97      systemd-timesyn 0.0     0.0
+96      systemd-resolve 0.0     0.0
+88      systemd-udevd   0.0     0.0
+228     agetty          0.0     0.0
+2       init-systemd(Ub 0.0     0.0
+193     systemd-logind  0.0     0.0
+190     rsyslogd        0.0     0.0
+184     dbus-daemon     0.0     0.0
+
+----------------------------- End of Report -----------------------------
+----------------------------- Start of Report -----------------------------
+Report generated on: Sun Mar 23 13:13:07 IST 2025
+
+CPU Usage per Application:
+----------------------------
+Application               User %   System %   CPU %
+systemd                  0.0%      0.0%      0.0%
+init-systemd(Ub          0.0%      0.0%      0.0%
+init                     0.0%      0.0%      0.0%
+systemd-journal          0.0%      0.0%      0.0%
+systemd-udevd            0.0%      0.0%      0.0%
+systemd-resolve          0.0%      0.0%      0.0%
+systemd-timesyn          0.0%      0.0%      0.0%
+cron                     0.0%      0.0%      0.0%
+dbus-daemon              0.0%      0.0%      0.0%
+networkd-dispat          0.0%      0.0%      0.0%
+
+Memory Usage per Application:
+----------------------------
+Total Memory: 32011 MB
+Used Memory: 489 MB
+Free Memory: 31522 MB
+System Used Memory (Buffers/Cache): 248 MB
+
+Application               Mem %   Mem (MB)
+unattended-upgr          0.00   %  20.82    MB
+packagekitd              0.00   %  19.62    MB
+networkd-dispat          0.00   %  19.26    MB
+systemd-journal          0.00   %  17.29    MB
+systemd-resolve          0.00   %  13.09    MB
+systemd                  0.00   %  12.34    MB
+apache2                  0.00   %  10.45    MB
+apache2                  0.00   %  10.45    MB
+systemd                  0.00   %  9.02     MB
+systemd-logind           0.00   %  7.26     MB
+
+Top 10 Resource-Intensive Processes:
+----------------------------
+    PID COMMAND         %CPU %MEM
+      1 systemd          0.0  0.0
+      2 init-systemd(Ub  0.0  0.0
+     15 init             0.0  0.0
+     65 systemd-journal  0.0  0.0
+     88 systemd-udevd    0.0  0.0
+     96 systemd-resolve  0.0  0.0
+     97 systemd-timesyn  0.0  0.0
+    182 cron             0.0  0.0
+    184 dbus-daemon      0.0  0.0
+    189 networkd-dispat  0.0  0.0
+
+Process-Intensive Values (Using htop):
+----------------------------
+Top 10 CPU-Intensive Processes (Using htop):
+PID    COMMAND         %CPU   %MEM
+97      systemd-timesyn 0.0     0.0
+96      systemd-resolve 0.0     0.0
+88      systemd-udevd   0.0     0.0
+65      systemd-journal 0.0     0.1
+228     agetty          0.0     0.0
+2       init-systemd(Ub 0.0     0.0
+193     systemd-logind  0.0     0.0
+190     rsyslogd        0.0     0.0
+189     networkd-dispat 0.0     0.1
+184     dbus-daemon     0.0     0.0
+
+Top 10 Memory-Intensive Processes (Using htop):
+PID    COMMAND         %CPU   %MEM
+65      systemd-journal 0.0     0.1
+189     networkd-dispat 0.0     0.1
+97      systemd-timesyn 0.0     0.0
+96      systemd-resolve 0.0     0.0
+88      systemd-udevd   0.0     0.0
+228     agetty          0.0     0.0
+2       init-systemd(Ub 0.0     0.0
+193     systemd-logind  0.0     0.0
+190     rsyslogd        0.0     0.0
+184     dbus-daemon     0.0     0.0
+
+----------------------------- End of Report -----------------------------

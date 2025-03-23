@@ -1,0 +1,84 @@
+----------------------------- Start of Report -----------------------------
+Report generated on: Sun Mar 23 12:31:53 IST 2025
+
+Status          Filesystem           Size       Used       Avail      Use%   Read KB/s    Write KB/s   Busy%    Mounted on
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+Normal Usage    none                 16G        4.0K       16G        1%     0.0          0.0          0.0      /mnt/wsl
+Normal Usage    drivers              100G       67G        34G        67%    0.0          0.0          0.0      /usr/lib/wsl/drivers
+Normal Usage    /dev/sdc             1007G      1.8G       954G       1%     0.28         32.26        3.14     /
+Normal Usage    none                 16G        112K       16G        1%     0.0          0.0          0.0      /mnt/wslg
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /usr/lib/wsl/lib
+Normal Usage    rootfs               16G        2.2M       16G        1%     0.0          0.0          0.0      /init
+Normal Usage    none                 16G        516K       16G        1%     0.0          0.0          0.0      /run
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /run/lock
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /run/shm
+Normal Usage    tmpfs                4.0M       0          4.0M       0%     0.0          0.0          0.0      /sys/fs/cgroup
+Normal Usage    none                 16G        76K        16G        1%     0.0          0.0          0.0      /mnt/wslg/versions.txt
+Normal Usage    none                 16G        76K        16G        1%     0.0          0.0          0.0      /mnt/wslg/doc
+Normal Usage    C:\                  100G       67G        34G        67%    0.0          0.0          0.0      /mnt/c
+High Usage      D:\                  932G       913G       20G        98%    0.0          0.0          0.0      /mnt/d
+Normal Usage    E:\                  235G       182G       53G        78%    0.0          0.0          0.0      /mnt/e
+High Usage      F:\                  701G       638G       64G        91%    0.0          0.0          0.0      /mnt/f
+Normal Usage    G:\                  101G       49G        52G        49%    0.0          0.0          0.0      /mnt/g
+High Usage      M:\                  1.9T       1.8T       65G        97%    0.0          0.0          0.0      /mnt/m
+High Usage      N:\                  4.6T       4.6T       24G        100%   0.0          0.0          0.0      /mnt/n
+High Usage      R:\                  201G       181G       20G        91%    0.0          0.0          0.0      /mnt/r
+High Usage      T:\                  271G       249G       23G        92%    0.0          0.0          0.0      /mnt/t
+High Usage      W:\                  361G       301G       60G        84%    0.0          0.0          0.0      /mnt/w
+----------------------------- End of Report -----------------------------
+----------------------------- Start of Report -----------------------------
+Report generated on: Sun Mar 23 12:31:54 IST 2025
+
+Status          Filesystem           Size       Used       Avail      Use%   Read KB/s    Write KB/s   Busy%    Mounted on
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+Normal Usage    none                 16G        4.0K       16G        1%     0.0          0.0          0.0      /mnt/wsl
+Normal Usage    drivers              100G       67G        34G        67%    0.0          0.0          0.0      /usr/lib/wsl/drivers
+Normal Usage    /dev/sdc             1007G      1.8G       954G       1%     0.28         32.26        3.14     /
+Normal Usage    none                 16G        112K       16G        1%     0.0          0.0          0.0      /mnt/wslg
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /usr/lib/wsl/lib
+Normal Usage    rootfs               16G        2.2M       16G        1%     0.0          0.0          0.0      /init
+Normal Usage    none                 16G        516K       16G        1%     0.0          0.0          0.0      /run
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /run/lock
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /run/shm
+Normal Usage    tmpfs                4.0M       0          4.0M       0%     0.0          0.0          0.0      /sys/fs/cgroup
+Normal Usage    none                 16G        76K        16G        1%     0.0          0.0          0.0      /mnt/wslg/versions.txt
+Normal Usage    none                 16G        76K        16G        1%     0.0          0.0          0.0      /mnt/wslg/doc
+Normal Usage    C:\                  100G       67G        34G        67%    0.0          0.0          0.0      /mnt/c
+High Usage      D:\                  932G       913G       20G        98%    0.0          0.0          0.0      /mnt/d
+Normal Usage    E:\                  235G       182G       53G        78%    0.0          0.0          0.0      /mnt/e
+High Usage      F:\                  701G       638G       64G        91%    0.0          0.0          0.0      /mnt/f
+Normal Usage    G:\                  101G       49G        52G        49%    0.0          0.0          0.0      /mnt/g
+High Usage      M:\                  1.9T       1.8T       65G        97%    0.0          0.0          0.0      /mnt/m
+High Usage      N:\                  4.6T       4.6T       24G        100%   0.0          0.0          0.0      /mnt/n
+High Usage      R:\                  201G       181G       20G        91%    0.0          0.0          0.0      /mnt/r
+High Usage      T:\                  271G       249G       23G        92%    0.0          0.0          0.0      /mnt/t
+High Usage      W:\                  361G       301G       60G        84%    0.0          0.0          0.0      /mnt/w
+----------------------------- End of Report -----------------------------
+----------------------------- Start of Report -----------------------------
+Report generated on: Sun Mar 23 13:10:47 IST 2025
+
+Status          Filesystem           Size       Used       Avail      Use%   Read KB/s    Write KB/s   Busy%    Mounted on
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+Normal Usage    none                 16G        4.0K       16G        1%     0.0          0.0          0.0      /mnt/wsl
+Normal Usage    drivers              100G       67G        34G        67%    0.0          0.0          0.0      /usr/lib/wsl/drivers
+Normal Usage    /dev/sdc             1007G      1.8G       954G       1%     0.28         32.22        3.25     /
+Normal Usage    none                 16G        124K       16G        1%     0.0          0.0          0.0      /mnt/wslg
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /usr/lib/wsl/lib
+Normal Usage    rootfs               16G        2.2M       16G        1%     0.0          0.0          0.0      /init
+Normal Usage    none                 16G        516K       16G        1%     0.0          0.0          0.0      /run
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /run/lock
+Normal Usage    none                 16G        0          16G        0%     0.0          0.0          0.0      /run/shm
+Normal Usage    tmpfs                4.0M       0          4.0M       0%     0.0          0.0          0.0      /sys/fs/cgroup
+Normal Usage    none                 16G        76K        16G        1%     0.0          0.0          0.0      /mnt/wslg/versions.txt
+Normal Usage    none                 16G        76K        16G        1%     0.0          0.0          0.0      /mnt/wslg/doc
+Normal Usage    C:\                  100G       67G        34G        67%    0.0          0.0          0.0      /mnt/c
+High Usage      D:\                  932G       913G       20G        98%    0.0          0.0          0.0      /mnt/d
+Normal Usage    E:\                  235G       182G       53G        78%    0.0          0.0          0.0      /mnt/e
+High Usage      F:\                  701G       638G       64G        91%    0.0          0.0          0.0      /mnt/f
+Normal Usage    G:\                  101G       49G        52G        49%    0.0          0.0          0.0      /mnt/g
+High Usage      M:\                  1.9T       1.8T       65G        97%    0.0          0.0          0.0      /mnt/m
+High Usage      N:\                  4.6T       4.6T       24G        100%   0.0          0.0          0.0      /mnt/n
+High Usage      R:\                  201G       181G       20G        91%    0.0          0.0          0.0      /mnt/r
+High Usage      T:\                  271G       249G       23G        92%    0.0          0.0          0.0      /mnt/t
+High Usage      W:\                  361G       301G       60G        84%    0.0          0.0          0.0      /mnt/w
+----------------------------- End of Report -----------------------------
